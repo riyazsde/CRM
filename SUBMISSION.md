@@ -3,25 +3,17 @@
 ## Developer
 Syed Riyaz
 
-## What to submit
-
-Replace the placeholders below after deployment:
-
-- Frontend: `https://YOUR-FRONTEND-DOMAIN`
-- Backend: `https://YOUR-BACKEND-DOMAIN`
-- Frontend GitHub: `https://github.com/YOUR-USERNAME/riyazcrm-frontend`
-- Backend GitHub: `https://github.com/YOUR-USERNAME/riyazcrm-backend`
 
 ## Recommended GitHub split
 
-Create two repositories:
+two repositories:
 
 1. `riyazcrm-frontend`
 2. `riyazcrm-backend`
 
 The root folder is useful as a local assessment workspace.
 
-## Before submission
+## submission
 
 - [ ] Run backend tests
 - [ ] Run frontend tests
